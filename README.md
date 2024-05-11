@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/vinushcv/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113975318/465d12a0-b851-4e07-b82e-21850e278339)
+
+
+### Name: Vinush.CV
+### Register Number: 212222230176
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
